@@ -1,2 +1,2 @@
 # ObjectDetection
-For Kaggles competition.
+CS498 DL project.
